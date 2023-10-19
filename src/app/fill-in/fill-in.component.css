@@ -1,0 +1,23 @@
+#img-bg {
+    background-image: url('https://i.imgur.com/a2HNARq.png');
+    min-height: 695px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.agora-nao{
+    border-radius: 20px;
+  background-color: #efefed;     /* #efefed */
+    width: 120px;
+    margin-top: 5px;
+}
+
+.cadastrar{
+    border-radius: 20px;
+    background-color: #e4fee7;
+    width: 120px;
+    margin-top: 5px;
+  
+    margin-left: 100px;
+  }
