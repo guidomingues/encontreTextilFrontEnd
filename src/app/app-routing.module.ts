@@ -7,7 +7,7 @@ import { RodapeComponent } from './rodape/rodape.component';
 
 const routes: Routes = [
 
-  {path:'', redirectTo: 'sign-in', pathMatch: 'full'},
+  {path:'', redirectTo: 'menu', pathMatch: 'full'},
   
   {path: 'sign-in', component: SignInComponent},
   {path:'menu', component: MenuComponent}, 
